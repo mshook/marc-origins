@@ -1,0 +1,10 @@
+CATALOGUE CARDS (bottom) for the Yale Medical Library are produced by computer
+after initial key punching of cards (top), which contain information from a cataloguer's work
+sheet. In producing the set of 11 cards the key punch operator enters only the information
+typed at the left. The identification data at the right has to be punched only once, then is
+duplicated automatically. The sequence of five catalogue cards is one of six sets printed by
+computer. The other five sets, which are all alike, go to Yale's main catalogue and to several
+other libraries. The sixth set shown here differs from the other five in that it consists of one
+main entry card followed by four cards with heading lines ("tracings"), which are indexed
+alphabetically in various parts of the main catalogue of the Yale Medical Library. The
+various "tracing" cards are produced automatically according to programmed instructions.
