@@ -1,0 +1,84 @@
+created: 20210124042327032
+creator: mshook
+modified: 20240828190743415
+modifier: mshook
+tags: marc card ibm yale library catalog sciam
+title: MarcOriginInPunchedCards
+type: text/vnd.tiddlywiki
+
+!! Is the origin of MARC tags (3-digit numbers) in the tradition of sequence numbers in the final columns of 80 column punch cards?
+
+!!!Here's some evidence:
+
+* https://docs.google.com/document/d/1lyV7J273Pb31JubfnvARNerQq34BxMeS3fO-OPbB1D8/edit?usp=sharing
+
+
+
+Origins of MARC IBM punch card SciAm 9/1966 p232
+
+
+
+
+```
+00000000011111111112222222222333333333344444444445555555555666666666677777777778
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+
+'B'F199 964'D                                                    A00011YM6501383
+'D'I'C'H'T'E'R, 'ERNEST, 1907'/                                  A10011YM6501383
+  'HANDBOOK OF CONSUMER MOTIVATIONS'. &THE                       A20011YM6501383
+PSYCHOLOGY OF THE WORLD OF OBJECTS.                              A20021YM6501383
+ DRAWINGS BY 'ROBERT 'GLAISER.  &'NEW 'YORK                      A20031YM6501383
+'MC'GRAW'/'HILL'41964'5                                          A20041YM6501383
+  486P.  ILLUS.  21CM.                                           A40011YM6501383
+1.'MOTIVATION '9'PSYCHOLOGY'0 2.'MOTIVATION                      A71011YM6501383
+RESEARCH '9'MARKETING'0                                          A71021YM6501383
+'I.'SHORT TITLE'L'I.'TITLE                                       A73011YM6501383
+                              'L'C+ + +                          A90011YM6501383
+________________________________________________
+BF199
+964D    DICHTER, Ernest, 1907-
+          Handbook of consumer motivations;  the
+________________________________________________
+MOTIVATION (PSYCHOLOGY)
+BF199
+964D    DICHTER, Ernest, 1907-
+          Handbook of consumer motivations;  the
+________________________________________________
+MOTIVATION RESEARCH (MARKETING)
+BF199
+964D    DICHTER, Ernest, 1907-
+          Handbook of consumer motivations;  the
+________________________________________________
+          Consumer motivations
+BF199
+964D    DICHTER, Ernest, 1907-
+          Handbook of consumer motivations;  the
+________________________________________________
+          Handbook of consumer motivations
+BF199
+964D    DICHTER, Ernest, 1907-
+          Handbook of consumer motivations;  the
+        psychology of the world of objects.
+        Drawings by Robert Glaisek.   New York.
+        McGraw-Hill[1964]
+          486p.  illus.  21cm.
+
+00000000011111111112222222222333333333344444444445555555555666666666677777777778
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+```
+
+
+
+
+I believe these cards are clue to the origin of MARC. This example is from Yale. Henriette Avram, the creator of MARC, was never at Yale. The sequence numbers in columns 67-71 look like MARC field tags. The input punch cards can produce the catalog cards with unit record equipment, for example sorting and tabulating machines.
+
+
+
+
+https://en.wikipedia.org/wiki/Henriette_Avram
+When Avram had thoroughly examined every aspect of the bibliographic record, "she translated what she learned into a set of fields ... bearing a name (the tags), handling instructions (the indicators), and parts (the subfields)."[6]
+
+ Intner, Sheila S. (March 2007). "The Passing of an Era". Technicalities. 13
+
+
+
